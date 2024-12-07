@@ -7,5 +7,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Leewell2006/Food-Rescue-App.git
 git push -u origin main
-![pic1 - Copy](https://github.com/user-attachments/assets/d016920f-f0d9-4ac9-b853-05a8702bde49)
+![pic1 - Copy](https://github.com/user-attachments/assets/4a8bcbb5-7689-445f-986b-667dbd60eb89)
+om/user-attachments/assets/d016920f-f0d9-4ac9-b853-05a8702bde49)
 
